@@ -25,14 +25,14 @@ function convertToBool(text, fault = 'true') {
 
 //--------------------------Mr Frank--------------------------------------
 module.exports = {
-    SESSION_ID: process.env.SESSION_ID || "Enter Your SubZero Session ID",
+    SESSION_ID: process.env.SESSION_ID || "mNIS1bzK#2UyNxVUO54gq7fDjo7-KtaJKxOC3q0tvYEWkg0tLjck",
     CAPTION: process.env.CAPTION || "*©  Gᴇɴᴇʀᴀᴛᴇᴅ Bʏ SᴜʙZᴇʀᴏ MD*",
     ALWAYS_ONLINE: process.env.ALWAYS_ONLINE || "true",
     AUTO_READ_STATUS: process.env.AUTO_READ_STATUS || "true",
     READ_MESSAGE: process.env.READ_MESSAGE || "false", // Added auto-read configuration
     AUTO_TYPING: process.env.AUTO_TYPING || "false",
     CURRENT_STATUS: process.env.CURRENT_STATUS || "false",
-    MODE: process.env.MODE || "public",
+    MODE: process.env.MODE || "private",
     AUTO_VOICE: process.env.AUTO_VOICE || "false",
     AUTO_STICKER: process.env.AUTO_STICKER || "false",
     AUTO_REPLY: process.env.AUTO_REPLY || "false",
